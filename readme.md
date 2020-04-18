@@ -5,6 +5,8 @@ https://pythonise.com/series/learning-flask/python-flask-uwsgi-introduction
 
 https://pythonise.com/series/learning-flask/exploring-uwsgi-decorators
 
+https://pythonise.com/series/learning-flask/python-before-after-request
+
 ## Clone the repo:
 
 ```sh
